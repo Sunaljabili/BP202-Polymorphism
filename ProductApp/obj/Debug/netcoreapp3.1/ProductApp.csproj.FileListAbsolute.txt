@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.exe
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.deps.json
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.runtimeconfig.json
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.dll
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.pdb
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.AssemblyInfo.cs
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.dll
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.pdb
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.genruntimeconfig.cache
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\User\Desktop\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\User\Desktop\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csproj.CopyComplete

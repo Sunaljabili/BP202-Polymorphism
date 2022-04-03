@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.AssemblyInfo.cs
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProductApp\AreaApp\bin\Debug\netcoreapp3.1\AreaApp.exe
+C:\Users\User\Desktop\ProductApp\AreaApp\bin\Debug\netcoreapp3.1\AreaApp.deps.json
+C:\Users\User\Desktop\ProductApp\AreaApp\bin\Debug\netcoreapp3.1\AreaApp.runtimeconfig.json
+C:\Users\User\Desktop\ProductApp\AreaApp\bin\Debug\netcoreapp3.1\AreaApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\ProductApp\AreaApp\bin\Debug\netcoreapp3.1\AreaApp.dll
+C:\Users\User\Desktop\ProductApp\AreaApp\bin\Debug\netcoreapp3.1\AreaApp.pdb
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.dll
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.pdb
+C:\Users\User\Desktop\ProductApp\AreaApp\obj\Debug\netcoreapp3.1\AreaApp.genruntimeconfig.cache
